@@ -1,4 +1,4 @@
-module github.com/coinbase-samples/advanced-trade-sdk-go
+module github.com/VykintasD/advanced-trade-sdk-go
 
 go 1.19
 
