@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/credentials"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/credentials"
 )
 
 func setupClient() (client.RestClient, error) {

@@ -1,6 +1,6 @@
 # Advanced Trade Go SDK README
 
-[![GoDoc](https://godoc.org/github.com/coinbase-samples/advanced-trade-sdk-go?status.svg)](https://godoc.org/github.com/coinbase-samples/advanced-trade-sdk-go)
+[![GoDoc](https://godoc.org/github.com/VykintasD/advanced-trade-sdk-go?status.svg)](https://godoc.org/github.com/VykintasD/advanced-trade-sdk-go)
 [![Go Report Card](https://goreportcard.com/badge/coinbase-samples/advanced-trade-sdk-go)](https://goreportcard.com/report/coinbase-samples/advanced-trade-sdk-go)
 
 ## Overview
@@ -46,7 +46,7 @@ There are convenience functions to read the credentials as an environment variab
 
 Coinbase Advanced Trade API credentials can be created in the [CDP web portal](https://portal.cdp.coinbase.com/). 
 
-Once the client is initialized, initialize a service to make the desired call. For example, to [list portfolios](https://github.com/coinbase-samples/advanced-trade-sdk-go/blob/main/list_portfolios.go),
+Once the client is initialized, initialize a service to make the desired call. For example, to [list portfolios](https://github.com/VykintasD/advanced-trade-sdk-go/blob/main/list_portfolios.go),
 create the service, pass in the request object, check for an error, and if nil, process the response.
 
 ```

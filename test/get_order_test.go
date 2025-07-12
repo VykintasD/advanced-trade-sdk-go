@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/orders"
+	"github.com/VykintasD/advanced-trade-sdk-go/orders"
 )
 
 func TestGetOrder(t *testing.T) {

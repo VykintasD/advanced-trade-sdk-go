@@ -20,10 +20,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/model"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/utils"
-	"github.com/coinbase-samples/core-go"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/model"
+	"github.com/VykintasD/advanced-trade-sdk-go/utils"
+	"github.com/VykintasD/core-go"
 )
 
 type ListProductsRequest struct {

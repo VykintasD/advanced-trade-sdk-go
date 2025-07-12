@@ -17,7 +17,7 @@
 package futures
 
 import (
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
 )
 
 type FuturesService interface {

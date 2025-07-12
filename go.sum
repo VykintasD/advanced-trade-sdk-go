@@ -1,5 +1,5 @@
-github.com/coinbase-samples/core-go v0.2.0 h1:2kEjNDmjC1BexDYVLHRBrY46ucLaDH8keveYvCgl6H8=
-github.com/coinbase-samples/core-go v0.2.0/go.mod h1:Toak9haPkoLB3w8gGBl8jd5FGDwXncypstvHzETqs6k=
+github.com/VykintasD/core-go v0.0.0-20250712225338-e2c7facd193a h1:Wc2Fc+EzWyoTvZdXCc+3OBBUpeT8LmyQWz/z4hr2wT8=
+github.com/VykintasD/core-go v0.0.0-20250712225338-e2c7facd193a/go.mod h1:du1Y6T6XrPYKwjT61ok9y8oryWY4pAhO/d0sRIXDrdk=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
 github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=

@@ -19,9 +19,9 @@ package portfolios
 import (
 	"context"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/model"
-	"github.com/coinbase-samples/core-go"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/model"
+	"github.com/VykintasD/core-go"
 )
 
 type ListPortfoliosRequest struct {

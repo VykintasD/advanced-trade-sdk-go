@@ -19,7 +19,7 @@ package products
 import (
 	"context"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
 )
 
 type ProductsService interface {

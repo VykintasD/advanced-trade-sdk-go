@@ -20,8 +20,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/model"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/orders"
+	"github.com/VykintasD/advanced-trade-sdk-go/model"
+	"github.com/VykintasD/advanced-trade-sdk-go/orders"
 )
 
 func TestCreateOrderPreview(t *testing.T) {

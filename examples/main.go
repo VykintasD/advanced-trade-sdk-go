@@ -23,9 +23,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/client"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/credentials"
-	"github.com/coinbase-samples/advanced-trade-sdk-go/portfolios"
+	"github.com/VykintasD/advanced-trade-sdk-go/client"
+	"github.com/VykintasD/advanced-trade-sdk-go/credentials"
+	"github.com/VykintasD/advanced-trade-sdk-go/portfolios"
 )
 
 func main() {

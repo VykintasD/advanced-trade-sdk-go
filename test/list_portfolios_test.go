@@ -20,7 +20,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/portfolios"
+	"github.com/VykintasD/advanced-trade-sdk-go/portfolios"
 )
 
 func TestListPortfolios(t *testing.T) {

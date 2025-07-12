@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/portfolios"
+	"github.com/VykintasD/advanced-trade-sdk-go/portfolios"
 )
 
 func TestCreatePortfolio(t *testing.T) {

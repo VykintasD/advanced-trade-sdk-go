@@ -24,8 +24,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/coinbase-samples/advanced-trade-sdk-go/credentials"
-	"github.com/coinbase-samples/core-go"
+	"github.com/VykintasD/advanced-trade-sdk-go/credentials"
+	"github.com/VykintasD/core-go"
 	"github.com/golang-jwt/jwt"
 	"github.com/google/uuid"
 )
